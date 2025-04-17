@@ -97,10 +97,10 @@ pip install -r requirements.txt
 - Reverse search when no text clue is available
 
 ---
-
-## 📜 License
-This project is licensed under the **MIT License**.
+## 🔗 Contact
+For any questions or collaborations, feel free to reach out:
+- **GitHub**: [Jd1430](https://github.com/Jd1430)
+- **Email**: jayanthdevarajgowda@gmail.com
 
 ---
-
-💡 **Contributions are welcome!** Feel free to fork and submit PRs. 🚀
+💡 **Contributions are welcome!** Feel free to fork this repository and submit pull requests. 🚀
