@@ -3,6 +3,10 @@
 This **Streamlit-powered web app** uses **Google Gemini AI** and **CLIP model** to generate captions and find visually similar images from the web via the **Unsplash API**.
 
 ---
+## 🎥 Project Demo  
+[ Watch the Video](https://github.com/user-attachments/assets/7848d276-bfa4-4f28-b53a-619e6af8edb0)
+
+---
 
 ## 🚀 Features
 - 🖼️ Upload an image (JPG, PNG)
