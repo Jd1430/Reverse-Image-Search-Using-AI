@@ -4,7 +4,7 @@ This **Streamlit-powered web app** uses **Google Gemini AI** and **CLIP model** 
 
 ---
 ## 🎥 Project Demo  
-[ Watch the Video](https://github.com/user-attachments/assets/7848d276-bfa4-4f28-b53a-619e6af8edb0)
+[ Watch the Video](https://github.com/user-attachments/assets/70cb4ade-0bd2-41eb-971d-6b0ee3b38cfa)
 
 ---
 
