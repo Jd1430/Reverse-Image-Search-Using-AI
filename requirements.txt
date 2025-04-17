@@ -1,0 +1,13 @@
+pil
+backend
+base64
+io
+numpy==1.26.4
+os
+pkg_resources
+re
+requests==2.32.3
+shutil
+streamlit==1.44.1
+torch==2.6.0
+transformers==4.49.0
